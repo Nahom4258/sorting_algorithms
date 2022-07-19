@@ -1,6 +1,8 @@
 # C - Sorting algorithms & Big O
 
-In this project, I implemented several different sorting algorithms.
+By Nahom Habtamu and Amanuel Alehegne Wubete
+
+In this project, we implemented several different sorting algorithms.
 
 ## Tests :heavy_check_mark:
 
